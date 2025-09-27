@@ -1,5 +1,6 @@
 # Next-Generation Benchmark by Digital Twin（NBDT）
-Next-generation Benchmark by Digital Twin
-## Digital Twin  Dataset
+The NBDT provides the Digital Twin base map, formatted to support SUMO's road network requirements (e.g., .net.xml) and CARLA's visual and topological data (e.g., OpenDRIVE/.xodr), essential for trajectory dataset generation and co-simulation.
+
+## Digital Twin Basemap For Trajactory Dataset
 [ HighD Dataset <br />Highway<br />German<br/>](https://levelxdata.com/highd-dataset/)    |  ![](https://github.com/ZhilingResearch/NBDT/main/asset/MainPage/highD.png)   
 :-------------------------:|:-------------------------:
