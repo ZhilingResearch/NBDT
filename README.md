@@ -46,6 +46,34 @@ A classic public dataset released by the U.S. Department of Transportation. It c
 
 
 
+## pNEUMA Dataset
+
+A large-scale urban trajectory dataset collected in downtown Athens by a drone swarm during peak hours. Released by EPFL and collaborators, it emphasizes natural driving trajectories under congested and high-density traffic conditions.
+
+
+## INTERACTION Dataset
+
+A dataset focusing on interactive driving scenarios such as ramps, roundabouts, intersections, and signalized intersections. It provides high-quality maps and scene segmentation, and is widely used for interactive trajectory prediction research.
+
+
+## Zen Traffic Data
+
+Provided by Hanshin Expressway in Japan, this dataset offers long-term, wide-area vehicle trajectories along with related influencing factors. It is often used for expressway operation monitoring and incident analysis.
+
+
+## ROCO Dataset
+
+A roundabout-specific dataset constructed for traffic conflict and incident studies. It uses roadside multi-camera recordings, trajectory extraction, and manual annotations of conflicts/collisions with severity labels.
+
+## I-24 MOTION
+
+A large-scale traffic sensing platform deployed on a 4-mile section of I-24 in Tennessee, USA. It provides vehicle trajectories, multi-camera video, and sensor data for traffic management and autonomous driving research.
+
+## 100-Car Naturalistic Driving Study (NDS)
+A landmark naturalistic driving study conducted by VTTI, NHTSA, and VDOT. It collected multi-channel in-vehicle video and vehicle dynamics sensor data, and compiled an “event database” (crash/near-crash/baseline). It remains a key resource for analyzing naturalistic driving behavior.
+
+
+
 ## High-D Dataset
 
 A highway vehicle trajectory dataset collected by RWTH Aachen (ika team) using drones on German highways. The trajectories are automatically extracted and designed for autonomous driving and microscopic traffic flow studies.
