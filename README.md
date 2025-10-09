@@ -147,8 +147,7 @@ A highway vehicle trajectory dataset collected by RWTH Aachen (ika team) using d
 ## Digital Twin Basemap For Autonomous Vehicle Test Field
 [Dataset Name   |    Real World Map |   Digital Twin Map   
 :-------------------------:|:-------------------------:|:-------------------------:
-[ Bejing YiZhuang <br />Region<br />China<br/>](https://github.com/ZhilingResearch/NBDT/main/asset/MainPage/bjyz.png)   |  ![] |  ![](https://github.com/ZhilingResearch/NBDT/main/asset/MainPage/bjyz.png)   
-[ Shanghai Lanxiang <br />Region<br />China<br/>](https://github.com/ZhilingResearch/NBDT/main/asset/MainPage/shlx.png)   |  ![] |  ![](https://github.com/ZhilingResearch/NBDT/main/asset/MainPage/bjyz.png)
+[ Bejing YiZhuang <br />Region<br />China<br/>](https://github.com/ZhilingResearch/NBDT/main/asset/MainPage/bjyz.png)   |  ![] |  ![](https://github.com/ZhilingResearch/NBDT/main/asset/MainPage/bjyz.png)
 
 
 ## Special Digital Twin Basemap
