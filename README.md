@@ -63,7 +63,7 @@ location Name   |                Real World Map                 |   Digital Twin
 
 A dataset focusing on interactive driving scenarios such as ramps, roundabouts, intersections, and signalized intersections. It provides high-quality maps and scene segmentation, and is widely used for interactive trajectory prediction research.
 
-[location Name   |                Real World Map                 |   Digital Twin Map   
+location Name   |                Real World Map                 |   Digital Twin Map   
 :-------------------------:|:---------------------------------------------:|:-------------------------:
 
 ## Zen Traffic Data
@@ -162,6 +162,4 @@ Digital Twin Base Map      | Sumo Carla Co-Simulation           |  Croner Cases 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![]() | ![]() |![]() 
  **Human Factor Study**   | **Sensor Simulation** | **Autonomous Vehicle Simulation**    
-![]() | ![]() | ![]() 
-
-
+![]() | ![]() | ![]()
