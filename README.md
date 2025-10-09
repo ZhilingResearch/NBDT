@@ -143,9 +143,9 @@ Dataset Name   |    Real World Map |   Digital Twin Map
 
 
 ## Digital Twin Basemap For Autonomous Vehicle Test Field
-Dataset Name   |    Real World Map |   Digital Twin Map   
-:-------------------------:|:-------------------------:|:-------------------------:
-[ Bejing YiZhuang <br />Region<br />China<br/>](https://github.com/ZhilingResearch/NBDT/main/asset/MainPage/bjyz.png)   |  ![] |  ![](https://github.com/ZhilingResearch/NBDT/main/asset/MainPage/bjyz.png)
+Dataset Name   |                            Real World Map                            |   Digital Twin Map   
+:-------------------------:|:--------------------------------------------------------------------:|:-------------------------:
+[ Bejing YiZhuang <br />Region<br />China<br/>](https://github.com/ZhilingResearch/NBDT/main/asset/MainPage/bjyz.png)   | **<img src="main/beijing/yizhuang/1.png" width="450" height="300" /> |  **<img src="main/beijing/yizhuang/digital/1.png" width="450" height="300" />
 
 
 ## Special Digital Twin Basemap
