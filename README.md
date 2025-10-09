@@ -80,9 +80,7 @@ A roundabout-specific dataset constructed for traffic conflict and incident stud
 
 location Name   |            Real World Map             |   Digital Twin Map   
 :-------------------------:|:-------------------------------------:|:-------------------------:
-[ Ann<br />Arbor<br/>](https://arxiv.org/abs/2405.10004)    | **![安娜堡](main/ROCO/Ann-Arbor/1.png)** |  ![]()   
-
-## SIND
+[ Ann<br />Arbor<br/>](https://arxiv.org/abs/2405.10004)    | **![安娜堡](main/ROCO/Ann-Arbor/1.png)** |  ![]()
 
 ## SIND
 
