@@ -152,6 +152,13 @@ Dataset Name   |                            Real World Map                      
 
 
 ## Smaller Digital Twin Basemap
+Expressway      | Mountain Road           |  Rural Road
+:-------------------------:|:-------------------------:|:-------------------------:
+![](main/smaller_digital/Expressway/1.png) | ![](main/smaller_digital/Mountain Road/1.png) |![](main/smaller_digital/Rural Road/1.png) 
+ **Underground Parking Garage**   | **Urban Arterial Road** | **Urban Intersection**    
+![](main/smaller_digital/Underground Parking Garage/1.png) | ![](main/smaller_digital/Urban Arterial Road/1.png) | ![](main/smaller_digital/Urban Intersection/1.png)
+ **Urban Local Road**   | **Urban Tunnel**
+![](main/smaller_digital/Urban Local Road/1.png) | ![](main/smaller_digital/Urban Tunnel/1.png)
 
 
 ## Features
