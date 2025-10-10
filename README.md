@@ -141,33 +141,33 @@ Dataset Name   |    Real World Map |   Digital Twin Map
 
 
 ## Digital Twin Basemap For Autonomous Vehicle Test Field
-Dataset Name   |                            Real World Map                            |   Digital Twin Map   
-:-------------------------:|:--------------------------------------------------------------------:|:-------------------------:
-| [ Bejing YiZhuang <br />Region<br />China<br/>](https://raw.githubusercontent.com/ZhilingResearch/NBDT/main/asset/MainPage/bjyz.png) | **<img src="https://raw.githubusercontent.com/ZhilingResearch/NBDT/main/main/beijing/yizhuang/1.png" width="450" height="300" />** | **<img src="https://raw.githubusercontent.com/ZhilingResearch/NBDT/main/main/beijing/yizhuang/digital/1.png" width="450" height="300" />** |
+                                                              Dataset Name                                                              |                            Real World Map                            |   Digital Twin Map   
+:--------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|:-------------------------:
+| [ Bejing YiZhuang <br />Region<br />China<br/>](https://raw.githubusercontent.com/ZhilingResearch/NBDT/main/asset/MainPage/bjyz.png)   | **<img src="https://raw.githubusercontent.com/ZhilingResearch/NBDT/main/main/beijing/yizhuang/1.png" width="450" height="300" />** | **<img src="https://raw.githubusercontent.com/ZhilingResearch/NBDT/main/main/beijing/yizhuang/digital/1.png" width="450" height="300" />** |
 
 ## Special Digital Twin Basemap
 
 
 
 ## Smaller Digital Twin Basemap
-| Expressway | Mountain Road | Rural Road |
-| :---: | :---: | :---: |
-| ![](main/smaller_digital/Expressway/1.png) | ![](main/smaller_digital/Mountain%20Road/1.png) | ![](main/smaller_digital/Rural%20Road/1.png) |
-| **Underground Parking Garage** | **Urban Arterial Road** | **Urban Intersection** |
+|                           Expressway                           |                      Mountain Road                      |                      Rural Road                      |
+|:--------------------------------------------------------------:|:-------------------------------------------------------:|:----------------------------------------------------:|
+|           ![](main/smaller_digital/Expressway/1.png)           |     ![](main/smaller_digital/Mountain%20Road/1.png)     |     ![](main/smaller_digital/Rural%20Road/1.png)     |
+|                 **Underground Parking Garage**                 |                 **Urban Arterial Road**                 |                **Urban Intersection**                |
 | ![](main/smaller_digital/Underground%20Parking%20Garage/1.png) | ![](main/smaller_digital/Urban%20Arterial%20Road/1.png) | ![](main/smaller_digital/Urban%20Intersection/1.png) |
-| **Urban Local Road** | **Urban Tunnel** | |
-| ![](main/smaller_digital/Urban%20Local%20Road/1.png) | ![](main/smaller_digital/Urban%20Tunnel/1.png) | |
+|                      **Urban Local Road**                      |                    **Urban Tunnel**                     |                                                      |
+|      ![](main/smaller_digital/Urban%20Local%20Road/1.png)      |     ![](main/smaller_digital/Urban%20Tunnel/1.png)      |                                                      |
 
 
 ## Smaller Test Basemap
 
 
 ## Features
-| Digital Twin Base Map | Sumo Carla Co | Croner Cases Testing |
-:-------------------------:|:--------------------------------------------------------------------:|:-------------------------:
-| <img src="main/feature/digital_twin_basemap/1.png"/> | <img src="main/feature/Co_Simulation/1.png" /> | <img src="main/feature/Croner/1.png" /> |
-| **Human Factor Study** | **Sensor Simulation** | **Autonomous Vehicle Simulation** |
-| <img src="main/feature/Human/1.png" /> | <img src="main/feature/Sensor/1.png" /> | <img src="main/feature/Autonomous/1.png" /> |
+|                               Digital Twin Base Map                               |                          Sumo Carla Co-Simulation                          |                          Croner Cases Testing                           |
+|:---------------------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
+| **<img src="main/feature/digital_twin_basemap/1.png" width="450" height="300"/>** | **<img src="main/feature/Co_Simulation/1.png" width="450" height="300"/>** |   **<img src="main/feature/Croner/1.png" width="450" height="300"/>**   |
+|                                Human Factor Study                                 |                             Sensor Simulation                              |                      Autonomous Vehicle Simulation                      |
+|        **<img src="main/feature/Human/1.png" width="450" height="300"/>**         |    **<img src="main/feature/Sensor/1.png" width="450" height="300"/>**     | **<img src="main/feature/Autonomous/1.png" width="450" height="300"/>** |
 
 
 
