@@ -51,9 +51,9 @@ A classic public dataset released by the U.S. Department of Transportation. It c
 
 A large-scale urban trajectory dataset collected in downtown Athens by a drone swarm during peak hours. Released by EPFL and collaborators, it emphasizes natural driving trajectories under congested and high-density traffic conditions.
 
-|                        location Name                        |                     Real World Map                     | Digital Twin Map |
-|:-----------------------------------------------------------:|:------------------------------------------------------:|:----------------:|
-| [ platia <br />Omonias<br/>](https://open-traffic.epfl.ch/) | **![Omonia Square](main/pNEUMA/platia-Omonias/1.png)** |      ![]()       |
+|                        location Name                        |                                       Real World Map                                       | Digital Twin Map |
+|:-----------------------------------------------------------:|:------------------------------------------------------------------------------------------:|:----------------:|
+| [ platia <br />Omonias<br/>](https://open-traffic.epfl.ch/) | <img src="main/pNEUMA/platia-Omonias/1.png" width="450" height="300" alt="Omonia Square"/> |      ![]()       |
 
 ## INTERACTION Dataset
 
@@ -68,15 +68,15 @@ Provided by Hanshin Expressway in Japan, this dataset offers long-term, wide-are
 
 |                              location Name                              |                            Real World Map                            | Digital Twin Map |
 |:-----------------------------------------------------------------------:|:--------------------------------------------------------------------:|:----------------:|
-| [ Hanshin <br />Expressway<br/>](https://zen-traffic-data.net/english/) | **![Hanshin Expressway](main/INTERACTION/Hanshin-Expressway/1.png)** |      ![]()       |
+| [ Hanshin <br />Expressway<br/>](https://zen-traffic-data.net/english/) | <img src="main/INTERACTION/Hanshin-Expressway/1.png" width="450" height="300" alt="Hanshin Expressway"/> |      ![]()       |
 
 ## ROCO Dataset
 
 A roundabout-specific dataset constructed for traffic conflict and incident studies. It uses roadside multi-camera recordings, trajectory extraction, and manual annotations of conflicts/collisions with severity labels.
 
-|                      location Name                       |               Real World Map                | Digital Twin Map |
-|:--------------------------------------------------------:|:-------------------------------------------:|:----------------:|
-| [ Ann<br />Arbor<br/>](https://arxiv.org/abs/2405.10004) | **![Ann Arbor](main/ROCO/Ann-Arbor/1.png)** |      ![]()       |
+|                      location Name                       |                            Real World Map                            | Digital Twin Map |
+|:--------------------------------------------------------:|:--------------------------------------------------------------------:|:----------------:|
+| [ Ann<br />Arbor<br/>](https://arxiv.org/abs/2405.10004) | **<img src="main/ROCO/Ann-Arbor/1.png" width="450" height="300" />** |      ![]()       |
 
 ## SIND
 
@@ -91,45 +91,44 @@ The Dragon Lake Parking (DLP) Dataset contains annotated video and data of vehic
 
 A large-scale traffic sensing platform deployed on a 4-mile section of I-24 in Tennessee, USA. It provides vehicle trajectories, multi-camera video, and sensor data for traffic management and autonomous driving research.
 
-|                       location Name                       |                   Real World Map                   | Digital Twin Map |
-|:---------------------------------------------------------:|:--------------------------------------------------:|:----------------:|
-| [ Nashville<br />](https://zen-traffic-data.net/english/) | **![Nashville](main/I-24-MOTION/Nashville/1.png)** |      ![]()       |
+|                       location Name                       |                                     Real World Map                                     | Digital Twin Map |
+|:---------------------------------------------------------:|:--------------------------------------------------------------------------------------:|:----------------:|
+| [ Nashville<br />](https://zen-traffic-data.net/english/) | <img src="main/I-24-MOTION/Nashville/1.png" width="450" height="300" alt="Nashville"/> |      ![]()       |
 
 ## 100-Car Naturalistic Driving Study (NDS)
 A landmark naturalistic driving study conducted by VTTI, NHTSA, and VDOT. It collected multi-channel in-vehicle video and vehicle dynamics sensor data, and compiled an “event database” (crash/near-crash/baseline). It remains a key resource for analyzing naturalistic driving behavior.
 
-|                           location Name                           |                       Real World Map                       | Digital Twin Map |
-|:-----------------------------------------------------------------:|:----------------------------------------------------------:|:----------------:|
-| [ Washington, D.C. <br />](https://zen-traffic-data.net/english/) | **![District of Columbia](main/100-car/Washington/1.png)** |      ![]()       |
+|                           location Name                           |                                         Real World Map                                         | Digital Twin Map |
+|:-----------------------------------------------------------------:|:----------------------------------------------------------------------------------------------:|:----------------:|
+| [ Washington, D.C. <br />](https://zen-traffic-data.net/english/) | <img src="main/100-car/Washington/1.png" width="450" height="300" alt="District of Columbia"/> |      ![]()       |
 
 ## High-D Dataset
 
 A highway vehicle trajectory dataset collected by RWTH Aachen (ika team) using drones on German highways. The trajectories are automatically extracted and designed for autonomous driving and microscopic traffic flow studies.
 
-|                              location Name                              |                Real World Map                 | Digital Twin Map |
-|:-----------------------------------------------------------------------:|:---------------------------------------------:|:----------------:|
-|       [ weisweiler<br />](https://levelxdata.com/highd-dataset/)        |     **![1](main/highD/weisweiler/1.png)**     |      ![]()       |
-|       [ garzweiler<br />](https://levelxdata.com/highd-dataset/)        |     **![2](main/highD/garzweiler/1.png)**     |      ![]()       |
-|      [ grevenbroich<br />](https://levelxdata.com/highd-dataset/)       |    **![3](main/highD/grevenbroich/1.png)**    |      ![]()       |
-|      [ bergheim-sud<br />](https://levelxdata.com/highd-dataset/)       |    **![4](main/highD/bergheim-sud/1.png)**    |      ![]()       |
-| [ serways<br />raststatte<br />](https://levelxdata.com/highd-dataset/) | **![5](main/highD/serways-raststatte/1.png)** |      ![]()       |
-|     [ koln<br />west<br />](https://levelxdata.com/highd-dataset/)      |     **![6](main/highD/koln-west/1.png)**      |      ![]()       |
+|                              location Name                              |                              Real World Map                               | Digital Twin Map |
+|:-----------------------------------------------------------------------:|:-------------------------------------------------------------------------:|:----------------:|
+|       [ weisweiler<br />](https://levelxdata.com/highd-dataset/)        |     <img src="main/highD/weisweiler/1.png" width="450" height="300"/>     |      ![]()       |
+|       [ garzweiler<br />](https://levelxdata.com/highd-dataset/)        |     <img src="main/highD/garzweiler/1.png" width="450" height="300"/>     |      ![]()       |
+|      [ grevenbroich<br />](https://levelxdata.com/highd-dataset/)       |    <img src="main/highD/grevenbroich/1.png" width="450" height="300"/>    |      ![]()       |
+|      [ bergheim-sud<br />](https://levelxdata.com/highd-dataset/)       |    <img src="main/highD/bergheim-sud/1.png" width="450" height="300"/>    |      ![]()       |
+| [ serways<br />raststatte<br />](https://levelxdata.com/highd-dataset/) | <img src="main/highD/serways-raststatte/1.png" width="450" height="300"/> |      ![]()       |
+|     [ koln<br />west<br />](https://levelxdata.com/highd-dataset/)      |     <img src="main/highD/koln-west/1.png" width="450" height="300"/>      |      ![]()       |
 
 ## in-D Dataset
-
 |                             Dataset Name                             |                Real World Map                | Digital Twin Map |
 |:--------------------------------------------------------------------:|:--------------------------------------------:|:----------------:|
-|       [ Bendplatz<br />](https://levelxdata.com/ind-dataset/)        |     **![1](main/in-D/Bendplatz/1.png)**      |      ![]()       |
-|      [ Frankenburg<br />](https://levelxdata.com/ind-dataset/)       |    **![2](main/in-D/Frankenburg/1.png)**     |      ![]()       |
-|      [ Heckstrasse<br />](https://levelxdata.com/ind-dataset/)       |    **![3](main/in-D/Heckstrasse/1.png)**     |      ![]()       |
-| [ Neukollner<br />Strasse<br/>](https://levelxdata.com/ind-dataset/) | **![4](main/in-D/Neukollner_Strasse/1.png)** |      ![]()       |
+|       [ Bendplatz<br />](https://levelxdata.com/ind-dataset/)        | <img src="main/in-D/Bendplatz/1.png" width="450" height="300"/> |      ![]()       |
+|      [ Frankenburg<br />](https://levelxdata.com/ind-dataset/)       | <img src="main/in-D/Frankenburg/1.png" width="450" height="300"/> |      ![]()       |
+|      [ Heckstrasse<br />](https://levelxdata.com/ind-dataset/)       | <img src="main/in-D/Heckstrasse/1.png" width="450" height="300"/> |      ![]()       |
+| [ Neukollner<br />Strasse<br/>](https://levelxdata.com/ind-dataset/) | <img src="main/in-D/Neukollner_Strasse/1.png" width="450" height="300"/> |      ![]()       |
 
 ## round-D Dataset
-|                         Dataset Name                          |               Real World Map               | Digital Twin Map |
-|:-------------------------------------------------------------:|:------------------------------------------:|:----------------:|
-|   [ Neuweiler<br />](https://levelxdata.com/round-dataset/)   |   **![1](main/round-D/Neuweiler/1.png)**   |      ![]()       |
-| [ KackertstraBe<br />](https://levelxdata.com/round-dataset/) | **![2](main/round-D/KackertstraBe/1.png)** |      ![]()       |
-|  [ Thiergarten<br />](https://levelxdata.com/round-dataset/)  |  **![3](main/round-D/Thiergarten/1.png)**  |      ![]()       |
+|                         Dataset Name                          |                               Real World Map                               | Digital Twin Map |
+|:-------------------------------------------------------------:|:--------------------------------------------------------------------------:|:----------------:|
+|   [ Neuweiler<br />](https://levelxdata.com/round-dataset/)   |   **<img src="main/round-D/Neuweiler/1.png" width="450" height="300"/>**   |      ![]()       |
+| [ KackertstraBe<br />](https://levelxdata.com/round-dataset/) | **<img src="main/round-D/KackertstraBe/1.png" width="450" height="300"/>** |      ![]()       |
+|  [ Thiergarten<br />](https://levelxdata.com/round-dataset/)  |  **<img src="main/round-D/Thiergarten/1.png" width="450" height="300"/>**  |      ![]()       |
 
 ## Digital Twin Basemap For Autonomous Vehicle Test Field
 |                                                             Dataset Name                                                             |                             Real World Map                             |                                Digital Twin Map                                |
