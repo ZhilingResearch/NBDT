@@ -165,9 +165,25 @@ Dataset Name   |                            Real World Map                      
 ## Features
 | Digital Twin Base Map | Sumo Carla Co-Simulation | Croner Cases Testing |
 :-------------------------:|:--------------------------------------------------------------------:|:-------------------------:
-| <img src="main/feature/digital_twin_basemap/1.png" width="450" height="300" alt="Digital Twin Base Map" /> | <img src="main/feature/Co_Simulation/1.png" width="450" height="300" alt="Sumo Carla Co-Simulation" /> | <img src="main/feature/Croner/1.png" width="450" alt="Croner Cases Testing" /> |
+| <img src="main/feature/digital_twin_basemap/1.png"/> | <img src="main/feature/Co_Simulation/1.png" /> | <img src="main/feature/Croner/1.png" /> |
 | **Human Factor Study** | **Sensor Simulation** | **Autonomous Vehicle Simulation** |
-| <img src="main/feature/Human/1.png" width="450" height="300" alt="Human Factor Study" /> | <img src="main/feature/Sensor/1.png" width="450" height="300" alt="Sensor Simulation" /> | <img src="main/feature/Autonomous/1.png" width="450" height="300" alt="Autonomous Vehicle Simulation" /> |
+| <img src="main/feature/Human/1.png" /> | <img src="main/feature/Sensor/1.png" /> | <img src="main/feature/Autonomous/1.png" /> |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

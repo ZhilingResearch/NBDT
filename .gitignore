@@ -4,3 +4,4 @@
 *.iws
 *.ipr
 .vscode/
+test.py
