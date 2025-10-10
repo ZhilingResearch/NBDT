@@ -152,7 +152,7 @@ Dataset Name   |                            Real World Map                      
 ## Smaller Digital Twin Basemap
 | Expressway | Mountain Road | Rural Road |
 | :---: | :---: | :---: |
-| ![](https://raw.githubusercontent.com/ZhilingResearch/NBDT/main/main/smaller_digital/Expressway/1.png) | ![](https://raw.githubusercontent.com/ZhilingResearch/NBDT/main/main/smaller_digital/Mountain%20Road/1.png) | ![](https://raw.githubusercontent.com/ZhilingResearch/NBDT/main/main/smaller_digital/Rural%20Road/1.png) |
+| ![](main/smaller_digital/Expressway/1.png) | ![](https://raw.githubusercontent.com/ZhilingResearch/NBDT/main/main/smaller_digital/Mountain%20Road/1.png) | ![](https://raw.githubusercontent.com/ZhilingResearch/NBDT/main/main/smaller_digital/Rural%20Road/1.png) |
 | **Underground Parking Garage** | **Urban Arterial Road** | **Urban Intersection** |
 | ![](https://raw.githubusercontent.com/ZhilingResearch/NBDT/main/main/smaller_digital/Underground%20Parking%20Garage/1.png) | ![](https://raw.githubusercontent.com/ZhilingResearch/NBDT/main/main/smaller_digital/Urban%20Arterial%20Road/1.png) | ![](https://raw.githubusercontent.com/ZhilingResearch/NBDT/main/main/smaller_digital/Urban%20Intersection/1.png) |
 | **Urban Local Road** | **Urban Tunnel** | |
