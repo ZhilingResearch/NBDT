@@ -140,9 +140,9 @@ A highway vehicle trajectory dataset collected by RWTH Aachen (ika team) using d
 
 
 ## Smaller Digital Twin Basemap
-|                   Underground Parking Garage                   |
-|:--------------------------------------------------------------:|
-| ![](main/smaller_digital/Underground%20Parking%20Garage/1.png) |
+|                                      Underground Parking Garage                                      |                                 ASU                                  |
+|:----------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------:|
+| <img src="main/smaller_digital/Underground%20Parking%20Garage/1.png" width="700" height="350<br/>"/> | <img src="main/smaller_digital/ASU/1.png" width="700" height="350"/> |
 
 
 ## Smaller Test Basemap
