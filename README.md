@@ -7,13 +7,11 @@ The NBDT provides the Digital Twin base map, formatted to support SUMO's road ne
 
 [location Name   |    Real World Map |   Digital Twin Map   
 :-------------------------:|:-------------------------:|:-------------------------:
-[ Expressway 1(SQM1) <br/> Expressway<br />China <br/>](http://seutraffic.com/)    |   ![](main/Ubiquitous-Traffie-Eye/SQM1/1.png)   |  ![]()   
-[ Expressway 1(SQM2) <br/> Expressway<br />China <br/>](http://seutraffic.com/)    |   ![](main/Ubiquitous-Traffie-Eye/SQM2/1.png)   |  ![]()   
+[ Expressway 1(SQM1, SQM2) <br/> Expressway<br />China <br/>](http://seutraffic.com/)    |   ![](main/Ubiquitous-Traffie-Eye/SQM1/1.png)   |  ![]()
 [ Expressway 2(YTAvenue3) <br/> Expressway<br />China <br/>](http://seutraffic.com/)    |   ![](main/Ubiquitous-Traffie-Eye/YTAvenue3/1.png)   |  ![]()   
 [ Expressway 3(CKQ4) <br />Expressway<br />China <br/>](http://seutraffic.com/)    |   ![](main/Ubiquitous-Traffie-Eye/CKQ4/1.png)   |  ![]()   
 [Expressway 4(RML7) <br />Expressway<br />China <br/>](http://seutraffic.com/)    |   ![](main/Ubiquitous-Traffie-Eye/RML7/1.png)   |  ![]()   
-[Urban Road 1(XAM-N5)<br />Expressway<br />China <br/>](http://seutraffic.com/)    |   ![](main/Ubiquitous-Traffie-Eye/XAM-N5/1.png)   |  ![]()   
-[Urban Road 1(XAM-N6) <br />Expressway<br />China <br/>](http://seutraffic.com/)    |   ![](main/Ubiquitous-Traffie-Eye/XAM-N6/1.png)   |  ![]()   
+[Urban Road 1(XAM-N5, XAM-N6)<br />Expressway<br />China <br/>](http://seutraffic.com/)    |   ![](main/Ubiquitous-Traffie-Eye/XAM-N5/1.png)   |  ![]()
 [Urban Road 2(PKDD8) <br />Expressway<br />China <br/>](http://seutraffic.com/)    |   ![](main/Ubiquitous-Traffie-Eye/PKDD8/1.png)   |  ![]()   
 [Urban Road 3(XAM-S9) <br />Expressway<br />China <br/>](http://seutraffic.com/)    |   ![](main/Ubiquitous-Traffie-Eye/XAM-s9/1.png)   |  ![]()   
 
