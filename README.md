@@ -4,8 +4,38 @@ The NBDT provides the Digital Twin base map, formatted to support SUMO's road ne
 
 
 ## Standard Interface
+### Trajactory Data
+
+### Crash Data
+
+### Carla API 
+
+### Hardware
+
+#### Driver Simualtor 
+
+##### Logitech g series
+
+##### Moza
+
+##### Moza
+
+
+#### Driver State Monitoring(DSM)
+
+##### Tobbi Eye Tracking
+
+##### Smarteye Eye Tracking
+
+##### EEG
 
 ## Benchmarking
+
+### Huamn Factor
+
+### Autonmous Vehicle 
+
+### Road Site Unit
 
 
 ## Digital Twin Basemap For Trajactory Dataset
