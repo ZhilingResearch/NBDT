@@ -22,7 +22,7 @@ The NBDT provides the Digital Twin base map, formatted to support SUMO's road ne
 
 ##### Logitech g series
 
-##### Moza
+##### Thrustmaster
 
 ##### Moza
 
