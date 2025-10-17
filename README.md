@@ -8,6 +8,12 @@ The NBDT provides the Digital Twin base map, formatted to support SUMO's road ne
 
 ### Crash Data
 
+#### Human driven vehicle(HDV)
+
+#### Autonomous Vehicle(AV)
+
+#### Advanced Driver Assistance System (ADAS)
+
 ### Carla API 
 
 ### Hardware
