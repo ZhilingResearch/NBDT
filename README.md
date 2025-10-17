@@ -22,9 +22,9 @@ The NBDT provides the Digital Twin base map, formatted to support SUMO's road ne
 
 |                                      Type                     |                  Manufacturer                 |  model  | force feedback
 |:-------------------------------------------------------------:|:------------------------------------------------:|:----------------:|:----------------:|
-|  Wheel |    Logitech    | G923｜yes
-|  Wheel |    Thrustmaster  | /
-|  Wheel |    Moza   | /
+|  Wheel |    Logitech    | G923 | yes
+|  Wheel |    Thrustmaster  | / | yes
+|  Wheel |    Moza   | / | yes
 
 
 
