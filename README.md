@@ -20,9 +20,9 @@ The NBDT provides the Digital Twin base map, formatted to support SUMO's road ne
 
 #### Driver Simualtor 
 
-|                                      Type                                     |                  Manufacturer                 | model |
+|                                      Type                                     |                  Manufacturer                 | model | force feedback
 |:---------------------------------------------------------------------------------------:|:------------------------------------------------:|:----------------:|
-|  Wheel |    Logitech    | Pro 3
+|  Wheel |    Logitech    | G923｜yes
 |  Wheel |    Thrustmaster  | /
 |  Wheel |    Moza   | /
 
