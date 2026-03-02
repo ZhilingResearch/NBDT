@@ -1,6 +1,7 @@
 import os
 import numpy as np
 import pandas as pd
+from PIL import Image
 
 class BasicTransfer:
     def __init__(self, args):
@@ -108,10 +109,14 @@ class HighDTransfer(BasicTransfer):
         objClass = tracks['class'].map(class_map).fillna(-1).astype(int)
 
         # Convert meter coordinates to pixel coordinates on the highway background image
-        # Source: highD official visualization tool (visualize_frame.py)
-        #   bounding_box /= 0.10106  (original video pix2meter)
-        #   bounding_box /= 4        (background image is 4x reduced)
-        PIX2METER = 0.10106 * 4  # 0.40424 meters per pixel
+        # Per-recording pix2meter: road_length (m) / image_width (px)
+        #   road_length = max(frontSightDistance + backSightDistance) across all vehicles
+        #   image_width = XX_highway.png pixel width
+        highway_img = Image.open(prefix + '_highway.png')
+        img_width = highway_img.size[0]
+        highway_img.close()
+        road_length = (tracks['frontSightDistance'] + tracks['backSightDistance']).max()
+        PIX2METER = road_length / img_width
         carCenterX = carCenterXm / PIX2METER
         carCenterY = carCenterYm / PIX2METER
         bb1X = bb1Xm / PIX2METER

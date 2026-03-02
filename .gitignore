@@ -1,7 +1,7 @@
 __pycache__/
 *.pyc
 
-# IDE 配置文件
+# IDE configs
 .idea/
 *.iml
 *.iws
@@ -9,8 +9,11 @@ __pycache__/
 .vscode/
 test.py
 
+# utils
+visualize.py
+
 # Data files
 original_data/
 processed_data/
+verify_output/
 *.zip
-
