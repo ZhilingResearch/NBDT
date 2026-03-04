@@ -10,7 +10,7 @@ __pycache__/
 test.py
 
 # utils
-visualize.py
+# visualize.py
 
 # Data files
 original_data/
