@@ -2,7 +2,7 @@
 import argparse
 import yaml
 
-from dataloader import HighDTransfer
+from dataloader import HighDTransfer, InDTransfer, NGSIMTransfer
 
 
 def parameters():
@@ -22,8 +22,16 @@ def parameters():
     return args
 
 def get_driver(args):
-    if args.dataset == "highD":
+    dataset = args.dataset.lower()
+    if dataset == "highd":
         return HighDTransfer(args)
+    if dataset == "ind":
+        return InDTransfer(args)
+    if dataset == "ngsim":
+        return NGSIMTransfer(args)
+    if dataset == "citysim":
+        raise NotImplementedError("CitySimTransfer is not implemented yet.")
+    raise ValueError(f"Unsupported dataset: {args.dataset}")
 
 def main():
     args = parameters()
