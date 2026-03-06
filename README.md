@@ -1,6 +1,6 @@
-# Next-Generation Benchmark by Digital Twin（NBDT）
-The NBDT provides the Digital Twin base map, formatted to support SUMO's road network requirements (e.g., .net.xml) and CARLA's visual and topological data (e.g., OpenDRIVE/.xodr), essential for trajectory dataset generation and co-simulation.
+# Ozone: construction of transportation research ontology system
 
+Modern Intelligent Transportation Systems rely on multiple sensing sources—such as roadside cameras, vehicle sensors, UAV imagery, radar, and LiDAR—which produce diverse data including traffic logs, road infrastructure attributes, vehicle trajectories, and human behavioral signals. However, these datasets often differ in formats, coordinate systems, timestamps, and semantic definitions, making integration and reuse difficult. Ozone addresses this challenge by constructing a standardized ontology that connects transportation entities, data structures, and relationships. This ontology supports consistent data integration, improves interoperability between datasets and simulation platforms, and reduces the engineering burden for researchers when building digital twins or conducting transportation experiments.
 
 
 ## Standard Interface
