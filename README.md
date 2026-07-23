@@ -17,6 +17,9 @@ Current dataset converters in [`dataloader`](./standardized_data_toolkit/dataloa
 | [NGSIM](https://data.transportation.gov/stories/s/Next-Generation-Simulation-NGSIM-Open-Data/i5zb-xe34/) | [Yes](./standardized_data_toolkit/dataloader/README.md#supported-datasets) |
 | [CitySim](https://github.com/UCF-SST-Lab/UCF-SST-CitySim1-Dataset) | [Yes](./standardized_data_toolkit/dataloader/README.md#supported-datasets) |
 | [Waymo](https://waymo.com/open/) | [Yes](./standardized_data_toolkit/dataloader/README.md#supported-datasets) |
+| [OpenACC](https://data.jrc.ec.europa.eu/dataset/9702c950-c80f-4d2f-982f-44d06ea0009f) | [Yes](./standardized_data_toolkit/dataloader/README.md#supported-datasets) |
+| [ADAS Single-Vehicle (Central Ohio)](https://data.transportation.gov/) | [Yes](./standardized_data_toolkit/dataloader/README.md#supported-datasets) |
+| [ADAS Two-Vehicle (Central Ohio)](https://data.transportation.gov/) | [Yes](./standardized_data_toolkit/dataloader/README.md#supported-datasets) |
 
 For dataset-specific [metadata](./standardized_data_toolkit/dataset_metadata.md), field mapping, coordinate notes, and intermediate variables.
 

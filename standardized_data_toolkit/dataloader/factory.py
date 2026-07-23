@@ -3,6 +3,9 @@ import argparse
 import yaml
 
 from dataloader import HighDTransfer, InDTransfer, CitySimTransfer, NGSIMTransfer, WaymoTransfer, LyftTransfer
+from openacc_transfer import OpenACCTransfer
+from adas_one_transfer import ADASOneVehicleTransfer
+from adas_two_transfer import ADASTwoVehicleTransfer
 
 
 def parameters():
@@ -41,6 +44,12 @@ def get_driver(args):
         return WaymoTransfer(args)
     elif args.dataset == "Lyft":
         return LyftTransfer(args)
+    elif args.dataset == "OpenACC":
+        return OpenACCTransfer(args)
+    elif args.dataset == "ADAS_single":
+        return ADASOneVehicleTransfer(args)
+    elif args.dataset == "ADAS_two_vehicle":
+        return ADASTwoVehicleTransfer(args)
     else:
         raise ValueError(f"Unknown dataset: {args.dataset}")
 

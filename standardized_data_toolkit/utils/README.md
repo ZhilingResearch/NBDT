@@ -7,6 +7,22 @@ Standalone utility scripts that don't fit inside a specific processing module.
 ## Current scripts
 
 - `visualize_waymo_trajectory.py` — animated GIF visualization of a Waymo Open Motion scenario, with the ego (SDC) highlighted
+- `compute_site_metrics.py` + `plot_site_metrics.py` — two-stage per-site metric pipeline (speed / density / car-following TTC / 2D-TTC conflict types) over standardized trajectory CSVs; see [`site_metrics.md`](site_metrics.md)
+
+---
+
+## `compute_site_metrics.py` / `plot_site_metrics.py` — per-site metric pipeline
+
+One folder = one site (all `*.csv` inside are pooled). The **compute** stage writes CSV result tables to `<out>/<site>/` (summary stats, distributions, per-frame density, cf-TTC samples, 2D-TTC conflict events and type counts). The **plot** stage reads any combination of computed site folders and draws a four-panel academic-style figure — three overlaid distribution curves plus a conflict-type bar chart — per site and/or as a multi-site comparison. All figure text is Arial at one font size.
+
+Usage, parameters, metric definitions, and output-file reference: **[`site_metrics.md`](site_metrics.md)**.
+
+```bash
+python standardized_data_toolkit/utils/compute_site_metrics.py \
+    --site kzm6=/path/to/kzm6_folder --site highd=/path/to/highd_folder
+python standardized_data_toolkit/utils/plot_site_metrics.py \
+    --metrics output/site_metrics/kzm6 --metrics output/site_metrics/highd
+```
 
 ---
 
